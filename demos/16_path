@@ -1,0 +1,26 @@
+path 中的方法
+
+normalize
+修正路径
+join
+拼接路径
+resolve
+返回相对路径的绝对路径
+basename
+返回文件名
+extname
+返回文件所在文件夹路径
+dirname
+返回文件后缀
+parse
+根据路径返回一个对象
+format
+根据对象返回一个路径字符串
+sep
+路径中的分隔符
+delimiter
+每个路径之间的分隔符
+win32
+window系统下的
+posix
+UNIX系统下的
